@@ -88,3 +88,14 @@ bilibili.com##a[title="帮助反馈"]
 
 ! 去播放页右侧“推荐”
 bilibili.com###reco_list
+
+!--------------------------百度百科----------------------------------
+! 去百度百科右侧滚动推荐
+baike.baidu.com##.slides
+baike.baidu.com##span[class*="appdownload"]
+
+! 去 shifen 统计
+*shifen.com
+
+! 去“无代编“提示
+baike.baidu.com##.declare-wrap
