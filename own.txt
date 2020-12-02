@@ -50,3 +50,19 @@ bilibili.com###reportFirst2
 ! 去直播列表
 ! 现在 B 站的直播我是真的没兴趣...
 bilibili,com##.live-list
+
+! 去视频 rank
+bilibili.com##.rank-list
+
+! 去跳舞分区
+! 都是些什么软黄色...
+bilibili.com###bili_report_dance
+
+! 去鬼畜分区
+bilibili.com###bili_report_kichiku
+
+! 去时尚分区
+bilibili.com###bili_fashion
+
+! 去课程分区旁的广告推荐
+bilibili.com###cheese_detail_banner
