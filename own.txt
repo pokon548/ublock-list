@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! title: pokon548's own filter list
+! Version: 20201202
+! Expires: 5 days
+! Homepage: https://github.com/pokon548/ublock-list
+
+!--------------------------知乎----------------------------------
+! 去页面内登陆指引
+zhihu.com##.Question-mainColumnLogin
+zhihu.com##.ExploreHomePage-specialsLogin
+
+! 去 PC 页扫码下载 App
+! 我一个 PC 为什么要下载 APP？
+zhihu.com##.AppBanner
+
+!! 知乎乖巧个人版
+! 去“等你来答”
+zhihu.com##a[href="//www.zhihu.com/question/waiting"]
+
+! 去恰饭内容内广告
+zhihu.com##.RichText-MCNLinkCardContainer
+zhihu.com##.MCNLinkCard
+
+! 去他人关注该问题指数
+! 好与不好由我自己判断，和内容提供商无关
+zhihu.com##.GoodQuestionAction
+zhihu.com##.QuestionHeader-side
+
+! 去“我想知道”
+zhihu.com##.css-vbzs0u
+
+! 去内容推荐
+zhihu.com##.AnswerInfo-title
+zhihu.com##.AnswerInfo-favlists
+zhihu.com##.Card[data-za-detail-view-path-module="RelatedQuestions"]
+
+! 去作者多余信息和直接关注入口
+! 好与不好，是否值得关注应取决于你的文笔，而不是你的关注人数和其它东西
+zhihu.com##.AnswerAuthor

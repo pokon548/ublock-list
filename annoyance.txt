@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! title: pokon548's annoyance filter list
+! Version: 20201202
+! Expires: 5 days
+! Homepage: https://github.com/pokon548/ublock-list
+
+!--------------------------知乎----------------------------------
+! 去知乎 JS 强制引导登陆
+|https://static.zhihu.com/heifetz/main.signflow*
