@@ -78,3 +78,9 @@ bilibili.com##.bilibili-player-video-panel-blur-detail
 ! 去除“大会员抢先看”提示
 ! 我是大会员，但我未必想要登陆
 bilibili.com###paybar_module
+
+! 去除播放器无用顶栏，增加有效面积
+bilibili.com##.bilibili-player-video-top
+
+! 去播放页“帮助与反馈”
+bilibili.com##a[title="帮助反馈"]
