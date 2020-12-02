@@ -66,3 +66,15 @@ bilibili.com###bili_fashion
 
 ! 去课程分区旁的广告推荐
 bilibili.com###cheese_detail_banner
+
+! 去右上角投稿按钮
+! 我不投稿，谢谢
+bilibili.com##div[data-v-72e2cdb6=""]
+
+! 去播放器“你感兴趣的视频都在 B 站”
+! 不接受主观意识无脑强加
+bilibili.com##.bilibili-player-video-panel-blur-detail
+
+! 去除“大会员抢先看”提示
+! 我是大会员，但我未必想要登陆
+bilibili.com###paybar_module
