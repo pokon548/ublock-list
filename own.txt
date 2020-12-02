@@ -37,3 +37,16 @@ zhihu.com##.Card[data-za-detail-view-path-module="RelatedQuestions"]
 ! 去作者多余信息和直接关注入口
 ! 好与不好，是否值得关注应取决于你的文笔，而不是你的关注人数和其它东西
 zhihu.com##.AnswerAuthor
+
+
+!--------------------------哔哩哔哩----------------------------------
+! 去下载 App
+bilibili.com##a[href="//app.bilibili.com"]
+
+! 去首页推荐
+bilibili.com##.first-screen
+bilibili.com###reportFirst2
+
+! 去直播列表
+! 现在 B 站的直播我是真的没兴趣...
+bilibili,com##.live-list
